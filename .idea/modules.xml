@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/MD2_Array_Method.iml" filepath="$PROJECT_DIR$/.idea/MD2_Array_Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayValue/arrayValue.iml" filepath="$PROJECT_DIR$/arrayValue/arrayValue.iml" />
       <module fileurl="file://$PROJECT_DIR$/daonguocphantu/daonguocphantu.iml" filepath="$PROJECT_DIR$/daonguocphantu/daonguocphantu.iml" />
     </modules>
   </component>
